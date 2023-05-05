@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="width">Width</string>
+    <string name="height">Height</string>
+    <string name="calculate">Calculate</string>
+    <string name="length">Panjang</string>
+    <string name="welcome_splash">Selamat Datang!</string>
+    <string name="todo">TODO</string>
+    <string name="app_about">Aplikasi belajar Android 2023.\nPercobaan untuk membuat Intent antar Activity.</string>
+    <string name="kalkulator">Kalkulator</string>
+    <string name="developer">by Ghauzar Andhika Akbar</string>
+    <string name="judul_profil">Profil Diri</string>
+    <string name="foto_deskripsi">Foto</string>
+</resources>

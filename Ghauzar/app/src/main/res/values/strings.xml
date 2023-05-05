@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Ghauzar</string>
+    <string name="length">Panjang</string>
+    <string name="width">Lebar</string>
+    <string name="height">Tinggi</string>
+    <string name="calculate">Hitung</string>
+    <string name="result">Hasil</string>
+    <string name="nama">Nama            : Ghauzar Andhika Akbar</string>
+    <string name="nim">NIM                  : 20533243</string>
+    <string name="jurusan">Prodi         : Teknik Informatika</string>
+    <string name="kampus">Kampus    : Universitas Muhammadiyah Ponorogo</string>
+    <string name="tahun">Tahun          : 2023</string>
+    <string name="welcome_splash">Selamat Datang!</string>
+    <string name="todo">TODO</string>
+    <string name="app_about">Aplikasi belajar Android 2023.\nPercobaan untuk membuat Intent antar Activity.</string>
+    <string name="kalkulator">Kalkulator</string>
+    <string name="developer">by Ghauzar Andhika Akbar</string>
+    <string name="judul_profil">Profil Diri</string>
+    <string name="foto_deskripsi">Foto</string>
+</resources>
